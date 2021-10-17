@@ -1,0 +1,19 @@
+section{
+    margin: 60px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    h2{
+        margin: 10px;
+    }
+}
+
+footer{
+    text-align: center;
+    background-color: #181818;
+    color: #F6F6F6;
+    font-size: 18px;
+    padding: 18px;
+}
